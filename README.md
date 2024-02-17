@@ -7,19 +7,6 @@ This project allows users to visualize Walmart sales data for a specific target 
 - **Input Form**: Users can input the target year, store name, and select the field they want to visualize.
 - **Visualization**: Upon form submission, the program generates a bar chart visualization of the selected field's data by month for the target year and store.
 
-## Usage
-
-1. Clone the repository:
-
-    ```bash
-    git clone <# Walmart Sales Visualization
-
-This project allows users to visualize Walmart sales data for a specific target year, store, and selected field.
-
-## Features
-
-- **Input Form**: Users can input the target year, store name, and select the field they want to visualize.
-- **Visualization**: Upon form submission, the program generates a bar chart visualization of the selected field's data by month for the target year and store.
 
 ## Usage
 
